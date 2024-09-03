@@ -60,4 +60,6 @@ The percentage value is 0.00000003405 for "c52". I can deduce from this that "c5
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Looking at all the information has to offer, I can make the definite decision that "c52" has more cultivation than "c39". Visually the boxplots prove that "c52" has a higher average, Numerically it proves that "c52" has a higher average by 7, and inferant
