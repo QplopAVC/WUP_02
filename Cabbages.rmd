@@ -43,6 +43,11 @@ Visually yes there is a a difference. I can easily see that the cultivation of "
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+Numerically there is an difference of 7. "c52" has a higher average numerically than "c39". I can deduce with this that "c52" has a higher cultivation than "c32" "c52" 64.4 > "c39" 51.5
 
 ## Inferential Results
 
