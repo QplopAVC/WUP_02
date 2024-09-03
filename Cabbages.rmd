@@ -47,7 +47,7 @@ Visually yes there is a a difference. I can easily see that the cultivation of "
 favstats(VitC~Cult,data=veggy)
 ```
 
-Numerically there is an difference of 7. "c52" has a higher average numerically than "c39". I can deduce with this that "c52" has a higher cultivation than "c32" "c52" 64.4 > "c39" 51.5
+Numerically there is an difference of 7. "c52" has a higher average numerically than "c39". I can deduce with this that "c52" has a higher cultivation than "c32" "c52" 64.4 > "c39" 51.5. 
 
 ## Inferential Results
 
@@ -62,4 +62,4 @@ The percentage value is 0.00000003405 for "c52". I can deduce from this that "c5
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Looking at all the information has to offer, I can make the definite decision that "c52" has more cultivation than "c39". Visually the boxplots prove that "c52" has a higher average, Numerically it proves that "c52" has a higher average by 7, and inferant
+Looking at all the information has to offer, I can make the definite decision that "c52" has more cultivation than "c39". Visually the boxplots prove that "c52" has a higher average, Numerically it proves that "c52" has a higher average by 7 while the 1st quartile of "c52" is higher that the 3rd of "c39", and inferentially by its percentage of 0.00000003405.
